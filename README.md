@@ -3,8 +3,7 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height = "29px" width = "29px">, I'm <strong>Shubham!</strong></h1>
 
 # 💫 About Me:
-<br>
-<img align="right" alt="coding" width="350" src="https://github.com/ShubhamGarg2802/ShubhamGarg2802/blob/main/coding.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/ShubhamGarg2802/ShubhamGarg2802/blob/main/coding.gif">
 🔭 I’m currently working on myself 😎<br><br>🌱 I’m currently learning Python<br><br>💬 Ask me about Frontend Development / C / PHP <br><br>📫 How to reach me : @ShubhamGarg2802 <br><br><br>
 
 
