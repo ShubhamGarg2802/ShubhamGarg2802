@@ -1,6 +1,6 @@
 ![](https://github.com/ShubhamGarg2802/ShubhamGarg2802/blob/main/banner.png)
 
-Hi there 👋, I'M Shubham Grarg
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height = "29px" width = "29px">, I'm <strong>Shubham!</strong></h1>
 
 # 💫 About Me:
 <br>
