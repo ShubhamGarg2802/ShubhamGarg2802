@@ -1,6 +1,6 @@
 ![](https://github.com/ShubhamGarg2802/ShubhamGarg2802/blob/main/banner.png)
 
-###Hi there 👋, I'M Shubham Grarg
+Hi there 👋, I'M Shubham Grarg
 
 # 💫 About Me:
 🔭 I’m currently working on myself 😎<br>🌱 I’m currently learning Python<br>💬 Ask me about Frontend Development / C / PHP <br>📫 How to reach me : @ShubhamGarg2802
