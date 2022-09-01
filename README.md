@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 <img align="right" alt="coding" width="300" src="https://github.com/ShubhamGarg2802/ShubhamGarg2802/blob/main/coding.gif">
-🔭 I’m currently working on myself 😎<br><br>🌱 I’m currently learning Python<br><br>💬 Ask me about Frontend Development / C / PHP <br><br>📫 How to reach me : @ShubhamGarg2802 <br><br><br>
+🔭 I’m currently working on myself 😎<br><br>🌱 I’m currently learning Python<br><br>💬 Ask me about Frontend Development / C / PHP / Python<br><br>📫 How to reach me : gargshubham2802@gmail.com <br><br><br>
 
 
 ## 🌐 Socials:
